@@ -1,6 +1,7 @@
 # Declare an empty list
 list_empty=[]
 
+
 # Declare a list with more than 5 items
 car=['BMW','Buggati','Thar','Ferrari','Lamborgini'] 
 
