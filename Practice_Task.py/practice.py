@@ -150,4 +150,5 @@ print(is_palindrome(test_list2))
 # 14. oncatenate two tuples without using the + operator.
 tuple1 = (1, 2, 3)
 tuple2 = (4, 5, 6)
-print("\n",tuple(tuple1 + tuple2))
+concated_tuple = *tuple1,*tuple2
+print("\n",concated_tuple)
