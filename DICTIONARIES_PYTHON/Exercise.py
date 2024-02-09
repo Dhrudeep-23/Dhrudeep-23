@@ -1,7 +1,6 @@
 # Create an empty dictionary called dog
 dog={}
 
-
 # Add name, color, breed, legs, age to the dog dictionary
 dog={
     'name':'Bolt',
